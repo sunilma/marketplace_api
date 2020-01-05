@@ -15,7 +15,7 @@
     "cors": "^2.8.1",
     "express": "^4.15.2",
     "jsonwebtoken": "^7.3.0",
-    "mongoose": "^4.9.1",
+    "mongoose": "^5.8.4",
     "nodemailer": "^4.0.1",
     "passport": "^0.3.2",
     "passport-jwt": "^2.2.1"
